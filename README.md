@@ -1,10 +1,56 @@
-- 👋 Hi, I’m Dimitar Ganchev
-- 👀 I’m interested in Java, Spring Framework, JS, Android, Technology and etc.
-- 🌱 I’m currently learning Spring Framework, Android.
-- 💞️ I'm looking to collaborate with an organization / people with whom we can be mutually beneficial. To exchange experiences and ideas.
-- 📫 You can contact me at any time by email ganchevdimitarg@gmail.com
+# Hi, I'm Dimitar 👋
 
-<!---
-ganchevdimitarg/ganchevdimitarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+Java Developer with 4+ years of professional experience building scalable backend applications and RESTful APIs. Skilled in Java, Spring Boot, SQL, and microservices architecture, with a strong focus on clean code and maintainable solutions.
+
+Additionally experienced with:
+- Python & FastAPI
+- JavaScript & React
+- REST API development
+- CI/CD pipelines
+- Containerization & DevOps basics
+
+Passionate about continuous learning, problem solving, and delivering high-quality software solutions.
+
+## Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Hibernate / JPA
+- Python
+- FastAPI
+
+### Frontend
+- JavaScript
+- React
+- HTML5
+- CSS3
+
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### DevOps & Tools
+- Docker
+- Jenkins
+- Git
+- GitHub
+- Maven
+- Gradle
+- Postman
+
+### Concepts
+- REST APIs
+- Microservices
+- CI/CD
+- Clean Architecture
+- Agile / Scrum
+
+## Currently
+
+- Improving backend architecture skills
+- Exploring cloud technologies and scalable systems
+- Building personal and open-source projects
